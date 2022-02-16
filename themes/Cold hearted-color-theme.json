@@ -197,7 +197,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#8fbc8f"
+				"foreground": "#ffce93"
 			}
 		},
 		{
@@ -344,7 +344,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#ffce93"
+				"foreground": "#ffe4c4"
 			}
 		},
 		{
