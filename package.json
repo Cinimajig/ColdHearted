@@ -1,0 +1,21 @@
+{
+    "name": "coldhearted",
+    "displayName": "ColdHearted",
+    "description": "Based on a theme i PowerShell ISE.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cold hearted",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cold hearted-color-theme.json"
+            }
+        ]
+    }
+}
