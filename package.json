@@ -2,6 +2,10 @@
     "name": "coldhearted",
     "displayName": "ColdHearted",
     "description": "Based on a theme i PowerShell ISE.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Cinimajig/ColdHearted.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
